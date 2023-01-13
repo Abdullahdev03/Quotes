@@ -1,0 +1,15 @@
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\bin\Debug\net7.0\Infrastructor.deps.json
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\bin\Debug\net7.0\Infrastructor.dll
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\bin\Debug\net7.0\Infrastructor.pdb
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\bin\Debug\net7.0\Domain.dll
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\bin\Debug\net7.0\Domain.pdb
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.csproj.AssemblyReference.cache
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.AssemblyInfoInputs.cache
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.AssemblyInfo.cs
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.csproj.CoreCompileInputs.cache
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.csproj.CopyComplete
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.dll
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\refint\Infrastructor.dll
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\Infrastructor.pdb
+C:\Users\99298\Desktop\C#\Dapper\Quotes\Infrastructor\obj\Debug\net7.0\ref\Infrastructor.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GNyA2kHCuBzwwjVlmjjk+2gXKG2KftxnUK5mYJUoJaySTyBHB9vlPs6PIe5Iy1Isa1Oo1encUwlit1EO9cJBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\99298\\Desktop\\C#\\Dapper\\Quotes\\Infrastructor\\Infrastructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\99298\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\99298\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\99298\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
